@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 
 function App() {
 const [position, setPosition] = useState({ lat: null, lng: null });
-
+console.log("changes")
   useEffect(() => {
     if ("geolocation" in navigator) {
       navigator.geolocation.watchPosition(
