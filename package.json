@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "homepage": "https://developmentwithshivam.github.io/location",
+ "homepage": "https://developmentwithshivam.github.io/Location",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
