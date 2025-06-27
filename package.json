@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://developmentwithshivam.github.io/Location", 
+  "homepage": "https://developmentwithshivam.github.io/location_tracker", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
